@@ -5,7 +5,7 @@
 .makrela {
 	width: 100%;
 	position: relative;
-	margin-top: 10%;
+	margin-top: 5%;
 	animation-name: marquee;
 	animation-duration: 15s;
 	animation-iteration-count: infinite;
