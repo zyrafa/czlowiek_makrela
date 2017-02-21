@@ -5,6 +5,7 @@
 .makrela {
 	width: 100%;
 	position: relative;
+	margin-top: 10%;
 	animation-name: marquee;
 	animation-duration: 15s;
 	animation-iteration-count: infinite;
@@ -12,6 +13,10 @@
 	animation-direction: alternate;
 }
 
+.name {
+	font-weight: bold;
+	font-family: "Comic sans MS";
+}
 .rainbowBackground { 
 	left:0;
 	right: 0;
